@@ -8,3 +8,5 @@ I added [deny rule] because without it, [what could go wrong].
 ## Verification
 Confirmed via /memory that CLAUDE.md loads correctly.
 Confirmed via /permissions that rules are active.
+
+I create a new pull request to try GitHub auto test.
